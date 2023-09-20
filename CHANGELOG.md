@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.0.0 (2023-09-20)
+
+
+### Features
+
+* initial commit ([92afa27](https://github.com/flowcore-io/python-transformer-passthrough/commit/92afa2797bec811cb77159a04863201a44b3fcd6))
+
 ## [1.0.2](https://github.com/flowcore-io/python-transformer-example/compare/v1.0.1...v1.0.2) (2023-09-20)
 
 
