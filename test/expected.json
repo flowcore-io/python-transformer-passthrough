@@ -9,8 +9,8 @@
       }
     },
     "output": {
-      "eventId": ":uuid:",
-      "validTime": ":date:",
+      "eventid": ":uuid:",
+      "validtime": ":date:",
       "hello": "world",
       "bar": "baz",
       "complex":"{\"hello\":\"world\",\"foo\":\"bar\"}"
@@ -21,8 +21,8 @@
       "foo": "bar"
     },
     "output": {
-      "eventId": ":uuid:",
-      "validTime": ":date:",
+      "eventid": ":uuid:",
+      "validtime": ":date:",
       "foo": "bar"
     }
   }
