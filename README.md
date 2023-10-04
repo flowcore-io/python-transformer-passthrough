@@ -80,3 +80,4 @@ Pushes to the `main` branch will trigger a release pull request, that runs tests
 To use this transformer in the [Flowcore](https://flowcore.io) platform, create a new adapter and point it to the github release artifact.
 
 The shell will then download the artifact, run it and for each data point post to the `transform` endpoint.
+
