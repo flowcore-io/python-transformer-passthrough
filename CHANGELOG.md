@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.1](https://github.com/flowcore-io/python-transformer-passthrough/compare/v1.0.0...v1.0.1) (2023-10-04)
+
+
+### Bug Fixes
+
+* fixed test to expect lowercase eventid and validtime ([bd4871c](https://github.com/flowcore-io/python-transformer-passthrough/commit/bd4871c19e421389ffea43c2193d36067f27bc0d))
+* forced rebuild ([b0468c6](https://github.com/flowcore-io/python-transformer-passthrough/commit/b0468c62d06e3d8c38952fc53374b148050bfa5f))
+
 ## 1.0.0 (2023-09-20)
 
 
