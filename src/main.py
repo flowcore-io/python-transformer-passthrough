@@ -48,7 +48,7 @@ async def transform(body: Body):
         # Add the key-value pair to the result object
         result[key] = value
 
-    return {"eventId": body.eventId, "validTime": body.validTime, **result}
+    return {"eventid": body.eventId, "validtime": body.validTime, **result}
 
 if __name__ == "__main__":
     uvicorn.run("main:app", host="0.0.0.0", port=int(os.environ["PORT"]), log_level="info")
