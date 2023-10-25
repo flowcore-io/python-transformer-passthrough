@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/flowcore-io/python-transformer-passthrough/compare/v1.0.1...v2.0.0) (2023-10-25)
+
+
+### ⚠ BREAKING CHANGES
+
+* bumped to adapter v2.x
+
+### Features
+
+* bumped to adapter v2.x ([3db381e](https://github.com/flowcore-io/python-transformer-passthrough/commit/3db381e13d3ec5e5bbe83a1d602a54f511f69b57))
+
 ## [1.0.1](https://github.com/flowcore-io/python-transformer-passthrough/compare/v1.0.0...v1.0.1) (2023-10-04)
 
 
